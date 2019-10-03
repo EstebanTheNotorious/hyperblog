@@ -6,6 +6,20 @@ body {
     margin: 0;
     padding: 0;
 }
+#encabezado {
+    background: yellowgreen;
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 15px 15px 0 0;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+#encabezado #tagline {
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
 #container {
     width: 70%;
     padding: 0;
@@ -14,6 +28,7 @@ body {
     border-radius: 15px;
     margin: 0 auto;
     margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
 }
 #container h1 {
     font-size: 20px;
