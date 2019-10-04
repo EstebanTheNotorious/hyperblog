@@ -9,7 +9,7 @@ body {
 }
 #encabezado {
     background: yellowgreen;
-    box-shadow: 0 4px 5px 0 rgba(255, 255, 255, 0.5);
+    box-shadow: 0 4px 5px 0 rgba(0, 0, 0, 0.75);
     border-radius: 15px 15px 0 0;
     color: white;
     font-weight: bold;
@@ -44,7 +44,7 @@ body {
 }
 #footer {
     background: yellowgreen;
-    box-shadow: 0 -4px 5px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 -4px 5px 0 rgba(0, 0, 0, 0.75);
     border-radius: 0 0 15px 15px;
     color: white;
     font-weight: bold;
